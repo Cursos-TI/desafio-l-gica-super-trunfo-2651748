@@ -6,8 +6,30 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-    printf("logica super trunfo");
-    printf("")
+    int carta;
+    float altura;
+    char nome [50];
+    char cidade;
+    char inicial = 'A'
+    int populacao
+    float pib = '0'
+    printf("digite sua idade:\n");
+    scanf("%d", &carta);
+
+    printf("digite sua altura:\n");
+    scanf("%f", &altura);
+
+    printf("digite o seu nome:\n");
+    scanf("%s", &nome);
+
+    printf("%d", &matricula);
+
+    printf("nome do aluno: %s - matricula: %d", nome, matricula);
+    printf("idade:,%d - altura: %f", idade, altura);
+
+    return 0;
+
+
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
@@ -27,6 +49,9 @@ int main() {
     // Desenvolva a lógica de comparação entre duas cartas.
     // Utilize estruturas de decisão como if, if-else para comparar atributos como população, área, PIB, etc.
      if (condition)
+
+     int carta 01 = 10;
+     
      {
         /* code */
      }
